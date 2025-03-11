@@ -4,8 +4,10 @@ Welcome! This is where I share some of my data analytics projects
 
 ## About Me
 
-Hi, I'm **viktor** Just some random dude trying to survive in this world.
-Below here is some example from my work
+<!--Hi, I'm **viktor** Just some random dude trying to survive in this world.
+Below here is some example from my work-->
+I’m a Data Analyst who loves turning raw data into clear, actionable insights. Whether it’s cleaning up messy datasets, building dashboards, or spotting trends, I focus on making data work for real business decisions.
+I enjoy solving problems, finding patterns, and making complex info easy to understand. Numbers tell a story—I help make sure it’s the right one.
 
 ## Dashboard
 ### 1. Dashboard Skrining Hipotiroid Kongenital (Tableau) **[Link](https://satusehat.kemkes.go.id/data/dashboard/356410b6-2335-4d54-9099-aa16a51498e1)**
