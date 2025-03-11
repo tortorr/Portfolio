@@ -13,9 +13,13 @@ Hi, I'm **viktor** Just some random dude trying to survive in this world.
 - Survey results used to measure and evaluate the quality of internet services available at Puskesmas. (This dashboard is the result of collaboration between the tech teams (FE, BE))
 ### 3. Dashboard Eksekutif SATUSEHAT (Looker)
 - Special executive dashboard for the Minister of Health and his staff
-<details>
-![WhatsApp Image 2025-03-11 at 14 01 09_54eea825](https://github.com/user-attachments/assets/b694214c-841d-4621-88da-c13862d7132e)
-<details/>
+ <img src="https://github.com/tortorr/Viktor/blob/main/image/dash_eksekutif1.jpg?raw=true" alt="Alt Text" width="300" height="200">
+<!--![alt text](https://github.com/tortorr/Viktor/blob/main/image/dash_eksekutif1.jpg?raw=true)-->
+
+### 4. Dashboard SATUSEHAT Health Pass (Looker) **[Link](https://lookerstudio.google.com/reporting/1355e0b1-303c-4569-b503-a52b225de0ea)**
+- SATUSEHAT dashboard regarding monkeypox awareness in Indonesia based on SSHP data **[Link](https://sshp.kemkes.go.id/)**
+
+
 
 
 
