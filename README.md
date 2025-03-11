@@ -17,6 +17,7 @@ I enjoy solving problems, finding patterns, and making complex info easy to unde
 ### 3. Dashboard Eksekutif SATUSEHAT (Looker)
 - Special executive dashboard for the Minister of Health and his staff
  <img src="https://github.com/tortorr/Portfolio/blob/main/image/dash_eksekutif1.jpg?raw=true" alt="Alt Text" width="300" height="200">
+ <img src="" width=600>
 <!--![alt text](https://github.com/tortorr/Viktor/blob/main/image/dash_eksekutif1.jpg?raw=true)-->
 
 ### 4. Dashboard SATUSEHAT Health Pass (Looker) **[Link](https://lookerstudio.google.com/reporting/1355e0b1-303c-4569-b503-a52b225de0ea)**
@@ -25,6 +26,7 @@ I enjoy solving problems, finding patterns, and making complex info easy to unde
 ## Article
 1. From DTO to Elon Musk: Unveiling the Community Health Center (Puskesmas) Internet Quality in Indonesia **[Link](https://medium.com/@dtokemkes/from-dto-to-elon-musk-unveiling-the-community-health-center-puskesmas-internet-quality-in-cdb506e1e38d)**
 2. ASIK’s User Field Research for Stunting Prevention in NTT and South Sumatra **[Link](https://medium.com/@dtokemkes/asiks-user-field-research-for-stunting-prevention-in-ntt-and-south-sumatra-dc25fa514d75)**
+3. Penilaian Risiko Hipertensi Menggunakan data PTM **[Link](https://github.com/tortorr/Portfolio/blob/main/Hipertensi%20risk%20scoring%20based%20on%20PTM%20data.md)**
 
 ## Contact
 - Email **tortorr8@gmail.com**
