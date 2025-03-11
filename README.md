@@ -25,7 +25,9 @@ Below here is some example from my work
 2. ASIK’s User Field Research for Stunting Prevention in NTT and South Sumatra **[Link](https://medium.com/@dtokemkes/asiks-user-field-research-for-stunting-prevention-in-ntt-and-south-sumatra-dc25fa514d75)**
 
 ## Contact
-You can email me at **tortorr8@gmail.com** or connect with me on **[LinkedIn](https://www.linkedin.com/in/viktorwibowo/)**.
+- Email **tortorr8@gmail.com**
+- Linkedin **[LinkedIn](https://www.linkedin.com/in/viktorwibowo/)**
+- Tableau Public **[Link](https://public.tableau.com/app/profile/viktor8620/vizzes)**
 
 ---
 *Thanks for stopping by my Data Analytics Portfolio!* 🚀
