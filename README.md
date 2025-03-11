@@ -5,6 +5,7 @@ Welcome! This is where I share some of my data analytics projects
 ## About Me
 
 Hi, I'm **viktor** Just some random dude trying to survive in this world.
+Below here is some example from my work
 
 ## Dashboard
 ### 1. Dashboard Skrining Hipotiroid Kongenital (Tableau) **[Link](https://satusehat.kemkes.go.id/data/dashboard/356410b6-2335-4d54-9099-aa16a51498e1)**
