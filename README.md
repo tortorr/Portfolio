@@ -16,8 +16,9 @@ I enjoy solving problems, finding patterns, and making complex info easy to unde
 - Survey results used to measure and evaluate the quality of internet services available at Puskesmas. (This dashboard is the result of collaboration between the tech teams Front Engineer & Backend Engineer
 ### 3. Dashboard Eksekutif SATUSEHAT (Looker)
 - Special executive dashboard for the Minister of Health and his staff
- <img src="https://github.com/tortorr/Portfolio/blob/main/image/dash_eksekutif1.jpg?raw=true" width="300" height="200">
- <img src="https://github.com/tortorr/Portfolio/blob/main/image/dash_eksekutif2e.jpg?raw=true" width=300 height="200">
+ <img src="https://github.com/user-attachments/assets/4f1ddc8b-45b6-43ba-b2bb-f3b8f00ff646" width="300" height="200">
+ <img src="https://github.com/user-attachments/assets/dbca2012-0e5a-4780-815b-957bccee2b51" width=300 height="200">
+ <img src="https://github.com/user-attachments/assets/780c6ebd-6c7f-4bf0-b7ff-18708b1a3a94" width=300 height="200">
 <!--![alt text](https://github.com/tortorr/Viktor/blob/main/image/dash_eksekutif1.jpg?raw=true)-->
 
 ### 4. Dashboard SATUSEHAT Health Pass (Looker) **[Link](https://lookerstudio.google.com/reporting/1355e0b1-303c-4569-b503-a52b225de0ea)**
