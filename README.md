@@ -30,6 +30,13 @@ I enjoy solving problems, finding patterns, and making complex info easy to unde
 3. Penilaian Risiko Hipertensi Menggunakan data PTM **[Link](https://github.com/tortorr/Portfolio/blob/main/Hipertensi%20risk%20scoring%20based%20on%20PTM%20data.md)**
 4. [Yearly Short Report]Stunting Posyandu **[Link](https://github.com/tortorr/Portfolio/blob/main/%5BYearly%20Short%20Report%5D%20Stunting%20Posyandu.md)**
 
+## Others
+1. Managing operational aspect of SATUSEHAT DATA **[Link](https://satusehat.kemkes.go.id/data)**
+2. Socializing SATUSEHAT DATA to internal organization and local health offices (Dinas Kesehatan)
+
+   <img src="https://github.com/user-attachments/assets/289e8860-88d4-47c9-9bc9-6bafbeb00f6a" width="300" height="200">
+   
+
 ## Contact
 - Email **tortorr8@gmail.com**
 - Linkedin **[LinkedIn](https://www.linkedin.com/in/viktorwibowo/)**
