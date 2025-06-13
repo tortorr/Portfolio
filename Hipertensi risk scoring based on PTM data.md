@@ -7,7 +7,7 @@ Mencari variable PTM yang berkorelasi dengan hipertensi.
 # Exploratory Data Analysis (EDA)
 Sumber data yang digunakan untuk melakukan EDA adalah table gold individu yang sudah dibuat sebelumnya dan digunakan sebagai dasar dalam pembuatan beberapa dashboard PTM selama ini.
 
-# Pre-processing Data
+## Pre-processing Data
 **Langkah pertama** yang dilakukan adalah, memeriksa kelengkapan data individu pada setiap kolom pada tabel `trial-pusdatin-kemenkes.gold_dashboard_ptm.detail_ptm_deteksi_dini_visit` dengan menggunakan bigquery. Setelah itu menyimpan hasil query kedalam table baru `trial-pusdatin-kemenkes.test.ptm_ml`.
 
 **Langkah kedua** melakukan perapihan dan perhitungan terhadap kolom yang mengandung null, kolom yang memiliki persentase nulls lebih dari dan atau 30% diberikan tanda merah, sedangkan kolom yang memiliki persentase nulls kurang dari 30% diberikan tanda hijau.
